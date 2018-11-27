@@ -50,8 +50,6 @@ Other resources
 
 .. toctree::
 
-   ski_trip
-   sprint
    talk_slides
 
 
@@ -214,11 +212,6 @@ are some tips:
 
 -  Sign up for a lightning talk.
 
-**I heard there's a ski-trip?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-More info :ref:`here <ski_trip>`.
-
 
 .. _say-hello-seattle2019:
 
@@ -244,4 +237,3 @@ these three documents were heavily used as a reference:
 * `Write The Docs Welcome Wagon <http://www.writethedocs.org/conf/portland/2018/welcome-wagon/>`_
 
 .. _PyCascades Slack: http://bit.ly/pycascades-slack
-✕
