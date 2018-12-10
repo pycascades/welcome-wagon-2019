@@ -1,4 +1,4 @@
-.. _slides:
+.. talk_slides:
 
 Slides for PyCascades 2019
 ==========================
@@ -10,16 +10,16 @@ From Saturday, February 23
 
 **Lightning Talks**
 
-TBD
+- TBD
 
 From Sunday, February 24
 --------------------------
 
-TBD
+- TBD
 
 **Lightning Talks**
 
-TBD
+- TBD
 
 
 Back to the :ref:`Welcome Wagon <index>`.

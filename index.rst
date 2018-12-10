@@ -55,6 +55,7 @@ Other resources
 .. toctree::
 
    talk_slides
+   travel_guide
 
 
 FAQs
@@ -66,6 +67,8 @@ FAQs
 **Where is everything?**
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+Our venue is `Kane Hall on the campus of the University of Washington <https://goo.gl/maps/ZVVnBcmfmN22>`_.
+
 The pre-registration event takes place at TBD.
 
 The main conference takes place in TBD.
@@ -75,7 +78,7 @@ The sprints is TBD.
 **How should I get around?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Coming soon.
+Check out our `travel guide <travel_guide.html>`_.
 
 **How should I dress?**
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -91,7 +94,11 @@ Coming soon.
 **What's the weather like?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Coming soon.
+The weather in February in Seattle is usually cold, but normally above 
+freezing. You should expect grey days with light rain. On February 23,
+the temperature in Seattle typically ranges from 41°F to 50°F (5°C to
+10°C) and is rarely below 32°F (0°C) or above 58°F (14°C).
+
 
 **What will I eat?**
 ~~~~~~~~~~~~~~~~~~~~
