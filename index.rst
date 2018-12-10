@@ -6,13 +6,17 @@ PyCascades Welcome Wagon
 Hello!
 
 We're your Welcome Wagon, and we're glad you're coming to the 2019 PyCascades
-conference!
+conference, being held on February 23-24 2019 in Seattle, Washington, USA!
+Our venue is `Kane Hall on the campus of the University of Washington <https://goo.gl/maps/ZVVnBcmfmN22>`_.
+
 Feel free to `tweet <https://twitter.com/pycascades>`_ at us.
-You can also email us at info@pycascades.com if we can help make your first time
-at the conference easier.
-Join us on `PyCascades Slack`_.
-When you get to the conference,
-come :ref:`say hello <say-hello-seattle2019>`.
+
+A great way to meet us and fellow attendees is on our `PyCascades Slack`_.
+
+You can also email us at info@pycascades.com if we can help make your
+first time at the conference easier.
+
+When you get to the conference, come :ref:`say hello <say-hello-seattle2019>`.
 
 We've gathered important stuff here that will help you navigate the
 conference like a pro, make you feel more at home, and help you to
@@ -35,8 +39,8 @@ Pro Tips
    between talks, networking, and breaks.
 
 -  Speaking of breaks--conferences are exhilarating, but can also be
-   exhausting. Give your brain a break! Grab a quiet spot in the Backstage Lounge
-   or take a quick walk. Play a board game on your lunch break. Come
+   exhausting. Give your brain a break! Grab a quiet spot in the Backstage
+   Lounge or take a quick walk. Play a board game on your lunch break. Come
    back invigorated.
 
 -  Eat! You can use the energy.
@@ -154,7 +158,8 @@ Coming soon!
 **How do I make the most out of this conference?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Make connections with other first-time attendees and get advice from seasoned pros.
+Make connections with other first-time attendees and get advice from seasoned
+pros.
 
 The most important part of this conference (and any conference) is the
 people you meet. Set a goal for yourself to meet a few, new people. Here
@@ -191,7 +196,8 @@ are some tips:
    them and questions for them. Either reach out by email before the
    conference to set up a meeting onsite or find them at the conference.
 
--  Attend the sprints and volunteer to help on one of the projects being worked on.
+-  Attend the sprints and volunteer to help on one of the projects being
+   worked on.
 
 -  Check out the talk schedule in advance and make note of the talks you
    don't want to miss.
