@@ -103,7 +103,16 @@ the temperature in Seattle typically ranges from 41°F to 50°F (5°C to
 **What will I eat?**
 ~~~~~~~~~~~~~~~~~~~~
 
-Comning soon.
+Many up and coming culinary professionals from all over the world are 
+making Seattle a destination for launching exciting, new careers. Also 
+native Seattlelites are returning to town after launching careers in 
+the worlds' food capitals. Your options are vast, generally its hard to
+find a bad meal in Seattle. **Caveat** is we're meeting in Seattle's U-District,
+on University of Washington's campus. Students view food differently than
+the rest of us. Many of the reviews in the U-District may prioritize price
+and quantity. 
+
+Don't despair, we're here to help with this Welcome Wagon!
 
 
 **Where should I sit?**
