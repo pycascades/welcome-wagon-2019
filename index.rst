@@ -28,7 +28,16 @@ Contribute
 ----------
 
 We welcome your contribution to the Welcome Wagon. Propose a PR on our `GitHub
-repo <https://github.com/pycascades/welcome-wagon-2019>`_.
+repo <https://github.com/pycascades/welcome-wagon-2019>`_. 
+
+Quick guide:
+ - Fork our repo on `GitHub <https://github.com/pycascades/welcome-wagon-2019>`_.
+ - Make your changes to your fork.
+ - When you're happy with them, submit a pull request back to our repo.
+
+Have ideas but no time today? Or do you need ideas on what to do? Check out our
+`issues page <https://github.com/pycascades/welcome-wagon-2019/issues>`_. Any
+change no matter how large or small is welcome!
 
 Pro Tips
 --------
