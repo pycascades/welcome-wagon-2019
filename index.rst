@@ -55,6 +55,7 @@ Other resources
 .. toctree::
 
    talk_slides
+   dining_guide
    travel_guide
 
 
