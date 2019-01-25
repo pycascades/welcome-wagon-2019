@@ -7,7 +7,7 @@ Seattle Dining Guide
    :local:
 
 U-District (Conference Vicinity)
-----------------
+--------------------------------
 
 The University of Washington is situated about 5 miles North of downtown
 Seattle.
