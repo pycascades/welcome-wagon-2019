@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'PyCascades Welcome Wagon 2019'
-copyright = '2018, PyCascades'
+copyright = '2018-2019, PyCascades'
 author = 'PyCascades'
 
 # The short X.Y version
@@ -84,7 +84,7 @@ html_theme_options = {
     'github_user': 'pycascades',
     'github_repo': 'welcome-wagon-2019',
     'github_type': 'star',
-    'description': 'PyCascades 2019 Welcome Wagon',
+    'github_banner': True,
     'show_relbars': True,
 }
 # Add any paths that contain custom static files (such as style sheets) here,
