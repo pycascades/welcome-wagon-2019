@@ -48,8 +48,8 @@ Pro Tips
    between talks, networking, and breaks.
 
 -  Speaking of breaks--conferences are exhilarating, but can also be
-   exhausting. Give your brain a break! Grab a quiet spot in the Backstage
-   Lounge or take a quick walk. Play a board game on your lunch break. Come
+   exhausting. Give your brain a break! Grab a quiet spot in the quiet room
+   or take a quick walk. Play a board game on your lunch break. Come
    back invigorated.
 
 -  Eat! You can use the energy.
