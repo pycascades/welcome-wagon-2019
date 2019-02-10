@@ -81,7 +81,7 @@ Our venue is `Kane Hall on the campus of the University of Washington <https://g
 
 The pre-registration event takes place at TBD.
 
-The main conference takes place in TBD.
+The main conference takes place at room 130. Refreshments will be available during breaks at the Walker Ames Room (Room 225).
 
 The sprints is TBD.
 
@@ -140,8 +140,6 @@ Don't despair, we're here to help with this Welcome Wagon!
 
 **What should I do during the talks?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Coming soon!
 
 -  The time between talks is for meeting your colleagues or taking a
    break. During the talks, listen and take in as much as you can.
