@@ -164,8 +164,10 @@ Don't despair, we're here to help with this Welcome Wagon!
 -  Lightning talks will take place on both main conference days, right
    after lunch, from 1:50PM to 2:20 PM.
 
+-  All lightning talks will be recorded and live streamed. 
+
 -  A lightning talk is a five-minute talk where you quickly share a
-   concept or bit of info you find interesting.
+   concept or bit of info you find interesting. Slides are not required.
 
 -  Lightning talks are a great way to practice public speaking, get
    people excited about your personal projects, and test interest in
@@ -173,7 +175,20 @@ Don't despair, we're here to help with this Welcome Wagon!
 
 -  Do you have an idea, want to talk about a new tool you are learning,
    or review a process? Then, yes! Sign up for a lightning talk. There
-   will be a sign-up sheet at registration.
+   will be a sign-up at registration.
+
+-  PyCascades is aiming to have a a balanced mix of speakers therefore
+   we’ll be using two buckets where folks can self-identify their
+   speaking experience as ‘new’ or ‘experienced’ to submit. A
+   thoughtful title, a sentence blurb, contact info to follow up,
+   and notes on if you have slides or not should be included in
+   your submission.
+
+-  Lightning talks selection will happen in a relatively tight window
+   during the conference. It is important to be responsive, ideally
+   through the conference Slack #lightningtalks channel, to ensure
+   if you are selected we get your materials and order for the
+   speaking line up situated in a timely fashion.
 
 -  If you are interested in giving a lightning talk, be prepared! There
    is a great guide
