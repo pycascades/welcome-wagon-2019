@@ -180,7 +180,6 @@ parking on campus [to be confirmed]. Prices / availability TBD.
 
 *25-30 minutes via public transit*
 
-Fremont is something of a nexus of tech companies.  Google, Tableau, Getty Images, Olis Robotics, and adobe (among others) are there.
 I am especially fond of `Schilling Cider <https://www.schillingcider.com/home>`_ which has one of the finest selection of hard ciders in the area [Full disclosure: my daughter works there].  Must be over 21.  Dog friendly.
 
 Short list:
