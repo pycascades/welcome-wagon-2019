@@ -193,7 +193,7 @@ Short list:
 
 - `Uneeda Burger <http://uneedaburger.com/>`_ All ages, smaller space
 
-- _`PCC community market <https://www.pccmarkets.com/stores/fremont/>`_ All ages, it's really a medium sized grocery store with a deli and a few places to sit.  It is comon to get food at PCC and drinks at Schilling.
+- `PCC community market <https://www.pccmarkets.com/stores/fremont/>`_ All ages, it's really a medium sized grocery store with a deli and a few places to sit.  It is comon to get food at PCC and drinks at Schilling.
 
 
 
