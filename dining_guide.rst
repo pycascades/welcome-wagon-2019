@@ -146,7 +146,7 @@ Short list:
 **Downtown Seattle - University Station**
 
 *20-25 minutes via public transit*
-
+ 
 The University Station is the next stop on the light rail. It is the closest station to 
 the Seattle Art Museum (SAM) and situated in the business district of Seattle. There are 
 many fast eats that serve the downtown workforce. As well there are bars and evening 
@@ -175,6 +175,31 @@ Bargain Eats
 
 The University is accessible from the I-5, at the 45th St exit. There is some
 parking on campus [to be confirmed]. Prices / availability TBD.
+
+**Fremont**
+
+*25-30 minutes via public transit*
+
++Fremont is something of a nexus of tech companies.  Google, Tableau, Getty Images, Olis Robotics, and Adobe (among others) are there.
+
+I am especially fond of `Schilling Cider <https://www.schillingcider.com/home>`_ which has one of the finest selection of hard ciders in the area [Full disclosure: my daughter works there].  Must be over 21.  Dog friendly.
+
+Short list:
+
+- `Qazi’s Indian Curry House & Mediterranean Cuisine <http://qazisindiancurry.com/>`_
+
+- `Nuna Ramen <http://nunaramen.us/>`_ All ages, smaller space
+
+- `Evergreens <https://evergreens.com/>`_ All ages, smaller space
+
+- `Uneeda Burger <http://uneedaburger.com/>`_ All ages, smaller space
+
+- `PCC community market <https://www.pccmarkets.com/stores/fremont/>`_ All ages, it's really a medium sized grocery store with a deli and a few places to sit.  It is comon to get food at PCC and drinks at Schilling.
+
+
+
+
+
 
 
 
