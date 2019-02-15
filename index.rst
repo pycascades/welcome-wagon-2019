@@ -66,6 +66,7 @@ Other resources
    talk_slides
    dining_guide
    travel_guide
+   sprint
 
 
 FAQs
@@ -83,7 +84,7 @@ The pre-registration event takes place at TBD.
 
 The main conference takes place at room 130. Refreshments will be available during breaks at the Walker Ames Room (Room 225).
 
-The sprints is TBD.
+The `sprint <sprint.html>`_ is at The Collective Seattle, `400 Dexter Avenue <https://goo.gl/maps/b1JY354TkvA2>`_.
 
 **How should I get around?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -235,7 +236,7 @@ are some tips:
    them and questions for them. Either reach out by email before the
    conference to set up a meeting onsite or find them at the conference.
 
--  Attend the sprints and volunteer to help on one of the projects being
+-  Attend the `sprint <sprint.html>`_ and volunteer to help on one of the projects being
    worked on.
 
 -  Check out the talk schedule in advance and make note of the talks you
@@ -250,7 +251,7 @@ are some tips:
 -  Reach out to some first-time attendees and tell them about your first
    conference.
 
--  Attend the sprints with your own project. Ask for help!
+-  Attend the `sprint <sprint.html>`_ with your own project. Ask for help!
 
 -  Check out the talk schedule in advance and make note of the talks you
    don't want to miss.
