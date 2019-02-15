@@ -146,7 +146,7 @@ Short list:
 **Downtown Seattle - University Station**
 
 *20-25 minutes via public transit*
-https://www.schillingcider.com/home
+ 
 The University Station is the next stop on the light rail. It is the closest station to 
 the Seattle Art Museum (SAM) and situated in the business district of Seattle. There are 
 many fast eats that serve the downtown workforce. As well there are bars and evening 
@@ -179,6 +179,8 @@ parking on campus [to be confirmed]. Prices / availability TBD.
 **Fremont**
 
 *25-30 minutes via public transit*
+
++Fremont is something of a nexus of tech companies.  Google, Tableau, Getty Images, Olis Robotics, and Adobe (among others) are there.
 
 I am especially fond of `Schilling Cider <https://www.schillingcider.com/home>`_ which has one of the finest selection of hard ciders in the area [Full disclosure: my daughter works there].  Must be over 21.  Dog friendly.
 
