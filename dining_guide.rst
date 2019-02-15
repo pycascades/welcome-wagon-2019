@@ -174,6 +174,8 @@ karaoke.
 
 *25-30 minutes via public transit*
 
+Fremont is known for its quirky, artistic flair. It’s home to the Fremont Troll sculpture, the most-frequently opened drawbridge in the United States (which doubles as an art studio for the current artist-in-residence) and a number of dining spots and bars. The easiest way to get to Fremont from the U-District is to grab either the 31 or 32 bus.
+
 +Fremont is something of a nexus of tech companies.  Google, Tableau, Getty Images, Olis Robotics, and Adobe (among others) are there.
 
 I am especially fond of `Schilling Cider <https://www.schillingcider.com/home>`_ which has one of the finest selection of hard ciders in the area [Full disclosure: my daughter works there].  Must be over 21.  Dog friendly.
@@ -186,13 +188,15 @@ Short list:
 
 - `Evergreens <https://evergreens.com/>`_ All ages, smaller space
 
-- `Uneeda Burger <http://uneedaburger.com/>`_ All ages, smaller space
+- `Uneeda Burger, unfussy but delicious counter service burgers <http://uneedaburger.com/>`_ 20 minutes public transit + 5 minute walk uphill. All ages, smaller space
 
 - `PCC community market <https://www.pccmarkets.com/stores/fremont/>`_ All ages, it's really a medium sized grocery store with a deli and a few places to sit.  It is comon to get food at PCC and drinks at Schilling.
 
+- `Cafe Turko, Turkish food with plenty of gluten free, vegan and vegetarian options <https://cafe-turko.com/>`_ 20 minutes public transit
 
+- `Pie, counter service hand pies <http://sweetandsavorypie.com/>`_ includes veggie & gluten free options` 20 minutes public transit
 
-
+- `Eve, slightly fancier sit-down with a full-service bar <https://www.evefremont.com/>`_ 20 minutes public transit
 
 
 
