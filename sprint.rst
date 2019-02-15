@@ -24,7 +24,7 @@ for each time you made a pull request to open source.
 Thank you for sprinting and contributing to open source!
 
 Projects
-========
+--------
 
 Propose a `pull request <https://github.com/pycascades/welcome-wagon-2019>`_ to
 add your project. You can also discuss sprint on our #sprints channel on
@@ -33,7 +33,7 @@ add your project. You can also discuss sprint on our #sprints channel on
 Example:
 
 Open_Source_Project
--------------------
++++++++++++++++++++
 
 * Lead: ??
 
