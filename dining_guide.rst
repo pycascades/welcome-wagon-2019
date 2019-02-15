@@ -170,12 +170,6 @@ International District has a lot of great food. If you are looking for dim sum t
 you want to be. There are lots of great authentic cuisine here along with bubble tea, and
 karaoke. 
 
-Bargain Eats
-------------
-
-The University is accessible from the I-5, at the 45th St exit. There is some
-parking on campus [to be confirmed]. Prices / availability TBD.
-
 **Fremont**
 
 *25-30 minutes via public transit*
