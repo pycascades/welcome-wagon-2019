@@ -46,7 +46,7 @@ Open_Source_Project
 <any additional info>
 
 CircuitPython
-+++++++++++++++++++
++++++++++++++
 
 * Lead: Scott Shawcroft (@tannewt)
 
@@ -58,3 +58,17 @@ CircuitPython
 
 We have a variety of things to sprint on from core C bugs, to Python library work and the CircuitPython website.
 
+blurb-it
+++++++++
+
+* Lead: Mariatta (@mariatta)
+
+* Interested people: ??
+
+* Repo: https://github.com/python/blurb_it/
+
+* Communication channel: python.zulipchat.com
+
+I plan to spend time working on adding more unittests and increase test coverage.
+There are also a few other issues in the repo.
+I'll be happy to explain how it works. Uses Python 3.7, aiohttp, gidgethub.
