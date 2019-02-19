@@ -51,9 +51,11 @@ there may not be much public street parking near the University.
 Driving
 -------
 
-The University is accessible from the I-5, at the 45th St exit. There is some
-parking on campus [to be confirmed]. Prices / availablity TBD.
+The University is accessible from the I-5, at the 45th St exit. Follow `directions to central campus <https://transportation.uw.edu/getting-here/drive?ref=#directions-to-central-campus>`_. The conference is in Kane Hall on Red Square. There is parking both on campus and on the street near the campus. Parking on campus is the best option Saturday. Both locations are free on Sunday.
 
+The closest on campus lot is the `Central Plaza Garage <https://transportation.uw.edu/park/events>`_ underneath Red Square and it the best option. It is $10 for Saturday `if arriving before noon <https://transportation.uw.edu/park/visitor>`_ and free on Sunday. Other campus lots are $5 on Saturday. When entering campus stop at a gatehouse to purchase a pass and get directions to a lot (ask for something near Kane Hall).
+
+Kane Hall lies on the western edge of the university's campus. It is a short walk from University Way, Brooklyn Ave, 12th Ave NE where some street parking is available. Hourly rates range from $1 to $2.50 and may be limited in duration. On Sunday, street parking is also free. There is a pedestrian overpass from Campus Parkway (south of 41st St) to campus that leads right into Red Square. Kane Hall will be on the forward left as you enter the square.
 
 
 Back to the :ref:`Welcome Wagon <index>`.
