@@ -63,6 +63,7 @@ Other resources
 
 .. toctree::
 
+   self
    talk_slides
    dining_guide
    travel_guide
