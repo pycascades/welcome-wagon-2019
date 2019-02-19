@@ -45,3 +45,16 @@ Open_Source_Project
 
 <any additional info>
 
+CircuitPython
++++++++++++++++++++
+
+* Lead: Scott Shawcroft (@tannewt)
+
+* Interested people: ??
+
+* Repo: http://github.com/adafruit/circuitpython, https://github.com/adafruit/?utf8=%E2%9C%93&q=circuitpython&type=&language=
+
+* Communication channel: https://adafru.it/discord, https://twitter.com/tannewt
+
+We have a variety of things to sprint on from core C bugs, to Python library work and the CircuitPython website.
+
