@@ -97,8 +97,6 @@ FAQs
 
 Our venue is `Kane Hall on the campus of the University of Washington <https://goo.gl/maps/ZVVnBcmfmN22>`_.
 
-The pre-registration event takes place at TBD.
-
 The main conference takes place at room 130. Refreshments will be available during breaks at the Walker Ames Room (Room 225).
 
 The `sprint <sprint.html>`_ is at The Collective Seattle, `400 Dexter Avenue <https://goo.gl/maps/b1JY354TkvA2>`_.
@@ -122,10 +120,13 @@ Check out our `travel guide <travel_guide.html>`_.
 **What's the weather like?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The weather in February in Seattle is usually cold, but normally above 
+The weather in February in Seattle is usually cold, but normally above
 freezing. You should expect grey days with light rain. On February 23,
 the temperature in Seattle typically ranges from 41°F to 50°F (5°C to
 10°C) and is rarely below 32°F (0°C) or above 58°F (14°C).
+
+The weather forecast for the weekend is a high of 42°F (6°C) with a
+80% chance of rain.
 
 
 **What will I eat?**
