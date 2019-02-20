@@ -19,7 +19,7 @@ Seattle.
 The closest food to Kane Hall is on University Way Northeast 
 which is often referred to as The Ave. 
 The Ave has many food options often marked by the cheapness 
-and proximity to campus. There is also several coffee shops
+and proximity to campus. There are also several coffee shops
 including Starbucks and several local spots. There are many 
 spot just west of campus and additional options north.
 
@@ -81,9 +81,9 @@ The transit timetables are integrated into the popular map apps, such as Google 
 There is also the One Bus Away app for buses which gives you live updates
 as to when the next bus is due at each bus stop.
 
-Seattle is served by taxis as well as rideshare services such as Lyft, Uber and
-ReachNow. There are also car-share services such as Car2Go and ReachNow, but
-street parking is limited in Capitol Hill and Downtown.
+Seattle is served by taxis as well as rideshare services such as Lyft and Uber.
+There are also car-share services such as Car2Go and ReachNow, but
+street parking is limited in Capitol Hill and Downtown. Check out `SDOT <http://web6.seattle.gov/sdot/seattleparkingmap/>`_ for streat parking or popular map apps, such as Google Maps, to find garages.
 
 **Capitol Hill**
 
@@ -155,12 +155,15 @@ to business professionals after work.
 
 - `Japonessa, upscale sushi with a spicy twist <http://www.japonessa.com/>`_ 25 minute public transit
 
+
 **Downtown Seattle - Pioneer Square**
 
 *25-30 minutes via public transit*
 
 The next stop on the light rail is Pioneer Square. Pioneer Square is going through a revival 
 and has many new and established restaurants and bars. There are several cute shops and food options.
+
+- `Altstadt, German beer hall with communal tables <http://altstadtseattle.com/>`_ 25 minute public transit + 5 minute walk
 
 **Downtown Seattle - International District**
 
@@ -174,7 +177,7 @@ karaoke.
 
 *25-30 minutes via public transit*
 
-Fremont is known for its quirky, artistic flair. It’s home to the Fremont Troll sculpture, the most-frequently opened drawbridge in the United States (which doubles as an art studio for the current artist-in-residence) and a number of dining spots and bars. The easiest way to get to Fremont from the U-District is to grab either the 31 or 32 bus.
+Fremont is known for its quirky, artistic flair. It’s home to the Fremont Troll sculpture, the most-frequently opened drawbridge in the United States (which doubles as an art studio for the current artist-in-residence) and a number of dining spots and bars. The easiest way to get to Fremont from the U-District is to grab either the 31 or 32 bus. Fremont, like the UW, also lies on part of the Burke-Gilman Trail.
 
 +Fremont is something of a nexus of tech companies.  Google, Tableau, Getty Images, Olis Robotics, and Adobe (among others) are there.
 
@@ -198,7 +201,25 @@ Short list:
 
 - `Eve, slightly fancier sit-down with a full-service bar <https://www.evefremont.com/>`_ 20 minutes public transit
 
+**Ballard**
 
+*30-35 minutes via public transit*
+
+Ballard is the Scandinavian cultural center of the city and has recently been the focus of a lot of new development. The easiest way to get to Ballard from the U-District is to grab the 44 bus.
+
+There are a lot of shops and nightlife in the historic center and the formerly industrial-centric area is exploding with breweries. Ballard alone has 11 breweries, a cidery, a distillery and a winery and the adjacent neighborhoods have even more!
+
+Short list:
+
+- `Ballard Coffee Works <https://www.seattlecoffeeworks.com/>`_ 25 minutes public transit
+
+- `Ruben's Brews, Ballard's biggest and most centally-located brewery <http://www.reubensbrews.com/>`_ 5 other breweries are within 0.3 miles (0.5 km), all but one are kid friendly and pet friendly, often with rotating food trucks outside, 25 minutes public transit + 10 minute walk
+
+- `Cafe Mox, board game store with attached cafe <https://www.moxboardinghouse.com/locations/#seattle>`_ Games can be borrowed from the store and played in the back room or over a drink in the cafe, 25 minutes public transit + 5 minute walk
+
+- `Tractor Tavern, bar/ music venue <http://www.tractortavern.com/>`_ Nightly performances, tickets requires, 25 minutes public transit + 5 minute walk
+
+- `Connor Bryne, bar/ venue <http://www.conorbyrnepub.com/>`_ Nightly events, sometimes requires a cover, 25 minutes public transit + 5 minute walk
 
 
 Back to the :ref:`Welcome Wagon <index>`.
