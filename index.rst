@@ -30,7 +30,7 @@ Pre-conference social
 Kickstart your PyCascades 2019 by joining us at the pre-conference social on
 Friday February 22nd from 6:00-8:00pm at the AT&T Lounge. Be one of the
 first to receive your own personalized PyCascades badge, and bonus, you'll
-get to enjoy some tacos from Tacos Chukis and non-alcoholic beverages.
+get to enjoy some tacos from `El Camion <http://www.elcamionseattle.com/menu/>`_ and non-alcoholic beverages.
 
  - *Where*: `AT&T Lounge on Capitol Hill, 800 E Thomas St., Seattle <https://goo.gl/maps/LKE1P48uWgH2>`_
  - *Time*: Between Friday, February 22nd, 2019 @ 6-8pm
@@ -41,7 +41,14 @@ Space is limited, so please `register now! <https://ti.to/pycascades/pycascades-
 
 Menu:
 
-- Tacos: Veggie, Pollo, Cabeza, Carne Asada, Cochinita Pibil
+- Tacos:
+
+  - Veggie
+  - Pollo (Chicken)
+  - Cabeza (Beef Cheek)
+  - Carne Asada (Grilled Top Sirloin)
+  - Cochinita Pibil (Seasoned Pork)
+
 - Rice (Gluten Free)
 - Beans (Gluten Free)
 - Jarritos
