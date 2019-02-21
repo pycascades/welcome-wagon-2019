@@ -37,7 +37,15 @@ get to enjoy some tacos from Tacos Chukis and non-alcoholic beverages.
  - *Lightning talks*: Yes, you can sign up for lightning talks during
    the pre-registration!
 
-Space is limited, so please `register now! <https://ti.to/pycascades/pycascades-2019/with/fxpom2majkm>`_
+Space is limited, so please `register now! <https://ti.to/pycascades/pycascades-2019/with/fxpom2majkm>`_.
+
+Menu:
+
+- Tacos: Veggie, Pollo, Cabeza, Carne Asada, Cochinita Pibil
+- Rice (Gluten Free)
+- Beans (Gluten Free)
+- Jarritos
+- Flour tortillas
 
 
 Contribute
