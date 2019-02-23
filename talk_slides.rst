@@ -14,7 +14,7 @@ From Saturday, February 23
 - Norah Klintberg Sakal: Guide to your own artificial intelligence application in 3 easy steps
 - Ania Kapuścińska: Lint your code responsibly!
 - Chirag Shah: Understanding Multithreading
-- Ben Berry: Who to blame for all your problems
+- Ben Berry: `Who to blame for all your problems <http://slides.bengerman.com/pycascades/2019/who-to-blame-for-all-your-problems/index.html>`_
 - Hayley Denbraver: Recursion, Fractals, and the Python Turtle Module
 
 **Lightning Talks**
