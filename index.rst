@@ -24,21 +24,6 @@ manage the constant flow of information. Strategies and pro tips provide
 ways you can make the most of the conference. The FAQs strive to answer
 questions before you even have them.
 
-Pre-conference social
----------------------
-
-Kickstart your PyCascades 2019 by joining us at the pre-conference social on
-Friday February 22nd from 6:00-8:00pm at the AT&T Lounge. Be one of the
-first to receive your own personalized PyCascades badge, and bonus, you'll
-get to enjoy some tacos from Tacos Chukis and non-alcoholic beverages.
-
- - *Where*: `AT&T Lounge on Capitol Hill, 800 E Thomas St., Seattle <https://goo.gl/maps/LKE1P48uWgH2>`_
- - *Time*: Between Friday, February 22nd, 2019 @ 6-8pm
- - *Lightning talks*: Yes, you can sign up for lightning talks during
-   the pre-registration!
-
-Space is limited, so please `register now! <https://ti.to/pycascades/pycascades-2019/with/fxpom2majkm>`_
-
 
 Contribute
 ----------
