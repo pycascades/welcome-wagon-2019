@@ -25,6 +25,30 @@ ways you can make the most of the conference. The FAQs strive to answer
 questions before you even have them.
 
 
+Important Information
+---------------------
+
+- *WiFi*: University of Washington, ID: event0476, Password: 26Gn=48Gn=53Ej
+- *Restrooms*: Located downstairs and upstairs.
+- *Refreshments*: Located upstairs in the Walter-Ames room.
+- *Quiet room*: Next door, room 120.
+  (NB: No food or drink allowed in the auditoriums)
+
+Code of Conduct
+---------------
+
+We have a `Code of Conduct <https://2019.pycascades.com/code-of-conduct/>`_. If you
+have any issues, please `reach out <https://2019.pycascades.com/code-of-conduct-reporting/>`_:
+
+- *In person*: any staff member can find a CoC member
+- *Hotline*: `+1 (206) 258-5599 <tel:+12062585599>`_.
+- *Email*: conduct (at) pycascades.com
+- *Staff member issues*: Contact conference chairs directly:
+
+  * Alan: `+1 (206) 637 6468 <tel:+12066376468>`_.
+  * Thea: `+1 (678) 588 8466 <tel:+16785888466>`_.
+
+
 Contribute
 ----------
 
