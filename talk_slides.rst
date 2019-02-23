@@ -7,7 +7,7 @@ From Saturday, February 23
 --------------------------
 
 - Katie McLaughlin: `Turning 'wat' into 'why' <http://www.example.com/link/to/slides>`_
-- Al Sweigart: `The Amazing Mutable, Immutable Tuple <http://www.example.com/link/to/slides>`_
+- Al Sweigart: `The Amazing Mutable, Immutable Tuple <http://bit.ly/amazingtuple>`_
 - Jigyasa Grover: `Perceiving Python Programming Paradigms <http://www.example.com/link/to/slides>`_
 - Iyanuoluwa Ajao: `Type Hints: Adding Types to Legacy Code <http://www.example.com/link/to/slides>`_
 - Maria McKinley: `Hunting the bugs <http://www.example.com/link/to/slides>`_
