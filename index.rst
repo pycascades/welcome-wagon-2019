@@ -48,12 +48,11 @@ have any issues, please `reach out <https://2019.pycascades.com/code-of-conduct-
   * Alan: `+1 (206) 637 6468 <tel:+12066376468>`_.
   * Thea: `+1 (678) 588 8466 <tel:+16785888466>`_.
 
-
 Contribute
 ----------
 
 We welcome your contribution to the Welcome Wagon. Propose a PR on our `GitHub
-repo <https://github.com/pycascades/welcome-wagon-2019>`_. 
+repo <https://github.com/pycascades/welcome-wagon-2019>`_.
 
 Quick guide:
  - Fork our repo on `GitHub <https://github.com/pycascades/welcome-wagon-2019>`_.
