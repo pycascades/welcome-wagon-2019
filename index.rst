@@ -24,42 +24,35 @@ manage the constant flow of information. Strategies and pro tips provide
 ways you can make the most of the conference. The FAQs strive to answer
 questions before you even have them.
 
-Pre-conference social
+
+Important Information
 ---------------------
 
-Kickstart your PyCascades 2019 by joining us at the pre-conference social on
-Friday February 22nd from 6:00-8:00pm at the AT&T Lounge. Be one of the
-first to receive your own personalized PyCascades badge, and bonus, you'll
-get to enjoy some tacos from `El Camion <http://www.elcamionseattle.com/menu/>`_ and non-alcoholic beverages.
+- *WiFi*: University of Washington, ID: event0476, Password: 26Gn=48Gn=53Ej
+- *Restrooms*: Located downstairs and upstairs.
+- *Refreshments*: Located upstairs in the Walter-Ames room.
+- *Quiet room*: Next door, room 120.
+  (NB: No food or drink allowed in the auditoriums)
 
- - *Where*: `AT&T Lounge on Capitol Hill, 800 E Thomas St., Seattle <https://goo.gl/maps/LKE1P48uWgH2>`_
- - *Time*: Between Friday, February 22nd, 2019 @ 6-8pm
- - *Lightning talks*: Yes, you can sign up for lightning talks during
-   the pre-registration!
+Code of Conduct
+---------------
 
-Space is limited, so please `register now! <https://ti.to/pycascades/pycascades-2019/with/fxpom2majkm>`_.
+We have a `Code of Conduct <https://2019.pycascades.com/code-of-conduct/>`_. If you
+have any issues, please `reach out <https://2019.pycascades.com/code-of-conduct-reporting/>`_:
 
-Menu:
+- *In person*: any staff member can find a CoC member
+- *Hotline*: `+1 (206) 258-5599 <tel:+12062585599>`_.
+- *Email*: conduct (at) pycascades.com
+- *Staff member issues*: Contact conference chairs directly:
 
-- Tacos:
-
-  - Veggie
-  - Pollo (Chicken)
-  - Cabeza (Beef Cheek)
-  - Carne Asada (Grilled Top Sirloin)
-  - Cochinita Pibil (Seasoned Pork)
-
-- Rice (Gluten Free)
-- Beans (Gluten Free)
-- Jarritos
-- Flour tortillas
-
+  * Alan: `+1 (206) 637 6468 <tel:+12066376468>`_.
+  * Thea: `+1 (678) 588 8466 <tel:+16785888466>`_.
 
 Contribute
 ----------
 
 We welcome your contribution to the Welcome Wagon. Propose a PR on our `GitHub
-repo <https://github.com/pycascades/welcome-wagon-2019>`_. 
+repo <https://github.com/pycascades/welcome-wagon-2019>`_.
 
 Quick guide:
  - Fork our repo on `GitHub <https://github.com/pycascades/welcome-wagon-2019>`_.
