@@ -11,7 +11,7 @@ attendees get to collaborate in person with other contributors and maintainers.
 Venue: `The Collective Seattle <https://www.collectiveseattle.com/>`_, 400 Dexter Avenue. (
 `Map <https://goo.gl/maps/b1JY354TkvA2>`_).
 
-When: Monday, February 25th, 2019, all day.
+When: Monday, February 25th, 2019, 9am to 5pm.
 
 Who: Those registered to Sprint. Space is limited at the venue. `Please register
 for free ticket here <https://ti.to/pycascades/pycascades-2019/with/senvon2fuek>`_.
