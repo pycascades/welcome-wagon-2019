@@ -15,7 +15,7 @@ From Saturday, February 23
 - Ania Kapuścińska: Lint your code responsibly!
 - Chirag Shah: Understanding Multithreading
 - Ben Berry: `Who to blame for all your problems <http://slides.bengerman.com/pycascades/2019/who-to-blame-for-all-your-problems/index.html>`_
-- Hayley Denbraver: Recursion, Fractals, and the Python Turtle Module
+- Hayley Denbraver: `Recursion, Fractals, and the Python Turtle Module <https://drive.google.com/file/d/1PMXdrKonn56Fk7BjhRtafBe5ltMEopCk/view?usp=sharing>`_
 
 **Lightning Talks**
 
