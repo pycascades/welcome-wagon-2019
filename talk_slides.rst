@@ -19,7 +19,7 @@ From Saturday, February 23
 
 **Lightning Talks**
 
-- Veronica Hanus: To comment or not to comment?
+- Veronica Hanus: `To comment or not to comment? <http://bit.ly/to-comment-or-not>`_
 - Roller Angel: `PyBUG Python BSD Users Groups <https://docs.google.com/document/d/1qTp7JUkYf0dqKtgA1FTM-gq0HSVqr8FtJZJfM9N-DDM/edit?usp=sharing>`_
 - Hanna Landrus: `Knitting - Will it Compile? <https://docs.google.com/presentation/d/1KE-XzWBbkZrbtsXTR95ErutFgMDaJwLLcTxVDIbYToU/edit?usp=sharing>`_
 - Aly Sivji: `Busy-Beaver <http://bit.ly/busy-beaver-lightning>`_
