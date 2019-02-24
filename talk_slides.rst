@@ -28,7 +28,7 @@ From Saturday, February 23
 From Sunday, February 24
 --------------------------
 
-- Nina Zakharenko: Light Up Your Life - With Python and LEDs!
+- Nina Zakharenko: `Light Up Your Life - With Python and LEDs! <http://bit.ly/pyc_leds>`_
 - Dustin Ingram: Data Protection for Developers: Past, Present, and Future
 - Omayeli Arenyeka: Building a Gendered Dictionary
 - Andy Fundinger: A Taxonomy of Decorators: A-E
