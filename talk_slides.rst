@@ -10,8 +10,8 @@ From Saturday, February 23
 - Al Sweigart: `The Amazing Mutable, Immutable Tuple <http://bit.ly/amazingtuple>`_
 - Jigyasa Grover: Perceiving Python Programming Paradigms
 - Iyanuoluwa Ajao: Type Hints: Adding Types to Legacy Code
-- Maria McKinley: Hunting the bugs
-- Norah Klintberg Sakal: Guide to your own artificial intelligence application in 3 easy steps
+- Maria McKinley: `Hunting the bugs <https://codedragon.github.io/bughunting/>`_
+- Norah Klintberg Sakal: `Guide to your own artificial intelligence applicationin 3 easy steps <https://github.com/norahsakal/pycascades-2019-shades>`_
 - Ania Kapuścińska: Lint your code responsibly!
 - Chirag Shah: Understanding Multithreading
 - Ben Berry: Who to blame for all your problems
