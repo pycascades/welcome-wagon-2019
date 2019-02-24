@@ -8,7 +8,7 @@ From Saturday, February 23
 
 - Katie McLaughlin: `Turning 'wat' into 'why' <http://glasnt.com/wat>`_
 - Al Sweigart: `The Amazing Mutable, Immutable Tuple <http://bit.ly/amazingtuple>`_
-- Jigyasa Grover: Perceiving Python Programming Paradigms
+- Jigyasa Grover: `Perceiving Python Programming Paradigms <https://docs.google.com/presentation/d/1wiZZSgUoED8S9SZ6djdpYVTntNh7BBIdhDqclKkPxIc/edit?usp=sharing>`_
 - Iyanuoluwa Ajao: Type Hints: Adding Types to Legacy Code
 - Maria McKinley: `Hunting the bugs <https://codedragon.github.io/bughunting/>`_
 - Norah Klintberg Sakal: `Guide to your own artificial intelligence applicationin 3 easy steps <https://github.com/norahsakal/pycascades-2019-shades>`_
