@@ -42,7 +42,10 @@ From Sunday, February 24
 
 **Lightning Talks**
 
-- TBD
+- Alex LordThorsen: `Reviewability with GIFs <https://gist.github.com/rawrgulmuffins/e34f180bd3f57a20f643196559b1faf9>`_
+- Jason Wattier: `A Light in the Dark. The Importance and Roles of Mentors <https://docs.google.com/presentation/d/10hlAzyj4qEcfb8uPWacHatB1VgXszRGJoum3HDPU_LM/edit?usp=sharing>`_
+- Nick Ballenger: `Tech Work in Political Orgs <https://docs.google.com/presentation/d/1px1QW6NkLDeiBKYHA5Ccwwtxfd9W9fvAogck431d1p0>`_
+- Mariatta Wijaya: `Mentored Sprint at PyCon US <https://docs.google.com/presentation/d/1yvJKTGbbYCpMQ_CuZ-Vfvc_SiyuYmshLZwk8Q3FJ-xk/edit?usp=sharing>`_
 
 
 Back to the :ref:`Welcome Wagon <index>`.
