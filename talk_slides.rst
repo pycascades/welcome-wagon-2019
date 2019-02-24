@@ -9,7 +9,7 @@ From Saturday, February 23
 - Katie McLaughlin: `Turning 'wat' into 'why' <http://glasnt.com/wat>`_
 - Al Sweigart: `The Amazing Mutable, Immutable Tuple <http://bit.ly/amazingtuple>`_
 - Jigyasa Grover: `Perceiving Python Programming Paradigms <https://docs.google.com/presentation/d/1wiZZSgUoED8S9SZ6djdpYVTntNh7BBIdhDqclKkPxIc/edit?usp=sharing>`_
-- Iyanuoluwa Ajao: Type Hints: Adding Types to Legacy Code
+- Paul Watts: `Given this, assert that: fluent testing using fixtures and properties <https://github.com/paulcwatts/pycascades_slides/blob/master/slides.pdf>`_
 - Maria McKinley: `Hunting the bugs <https://codedragon.github.io/bughunting/>`_
 - Norah Klintberg Sakal: `Guide to your own artificial intelligence applicationin 3 easy steps <https://github.com/norahsakal/pycascades-2019-shades>`_
 - Ania Kapuścińska: Lint your code responsibly!
@@ -31,12 +31,12 @@ From Sunday, February 24
 - Nina Zakharenko: `Light Up Your Life - With Python and LEDs! <http://bit.ly/pyc_leds>`_
 - Dustin Ingram: Data Protection for Developers: Past, Present, and Future
 - Omayeli Arenyeka: Building a Gendered Dictionary
-- Andy Fundinger: A Taxonomy of Decorators: A-E
-- Paul Watts: Given this, assert that: fluent testing using fixtures and properties
+- Andy Fundinger: `A Taxonomy of Decorators: A-E <https://github.com/bloomberg/decorator-taxonomy>`_
+- Iyanuoluwa Ajao: Type Hints: Adding Types to Legacy Code
 - Kyungyun Lee: So tell me, what is your musical taste?
 - Chris Waigl: Abstraction for students of all the things
 - Abhishek Kapatkar: Nim for Python Programmers
-- Philip James andAsheesh Laroia: Account Security for the Fashionable App Developer
+- Philip James and Asheesh Laroia: Account Security for the Fashionable App Developer
 - Trey Hunner: Meaningful Mentoring Moments
 
 
