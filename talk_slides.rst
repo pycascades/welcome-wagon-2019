@@ -34,7 +34,7 @@ From Sunday, February 24
 - Andy Fundinger: `A Taxonomy of Decorators: A-E <https://github.com/bloomberg/decorator-taxonomy>`_
 - Chirag Shah: `Understanding Multithreading <http://bit.ly/cpython_pycascades>`_
 - Kyungyun Lee: `So tell me, what is your musical taste? <https://kyungyunlee.github.io/archives/pycascades2019>`_
-- Chris Waigl: Abstraction for students of all the things
+- Chris Waigl: `Abstraction for students of all the things <https://github.com/chryss/abstraction-for-students-of-all-the-things>`_
 - Abhishek Kapatkar: Nim for Python Programmers
 - Philip James and Asheesh Laroia: Account Security for the Fashionable App Developer
 - Trey Hunner: Meaningful Mentoring Moments
