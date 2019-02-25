@@ -6,6 +6,7 @@ Slides for PyCascades 2019
 From Saturday, February 23
 --------------------------
 
+- Thea Flowers: `Welcome to PyCascades <https://docs.google.com/presentation/d/1vrpsXPvOhelbcDuaVdNxCYeqekqrGL0EKZ-JmRT4fC4/edit?usp=sharing>`_
 - Katie McLaughlin: `Turning 'wat' into 'why' <http://glasnt.com/wat>`_  - `video <https://youtu.be/hAnCiTpxXPg?t=3315>`__
 - Al Sweigart: `The Amazing Mutable, Immutable Tuple <http://bit.ly/amazingtuple>`_  - `video <https://youtu.be/hAnCiTpxXPg?t=5233>`__
 - Jigyasa Grover: `Perceiving Python Programming Paradigms <https://docs.google.com/presentation/d/1wiZZSgUoED8S9SZ6djdpYVTntNh7BBIdhDqclKkPxIc/edit?usp=sharing>`_  - `video <https://youtu.be/hAnCiTpxXPg?t=7050>`__
@@ -17,6 +18,7 @@ From Saturday, February 23
 - Ania Kapuścińska: Lint your code responsibly!  - `video <https://youtu.be/hAnCiTpxXPg?t=21814>`__
 - Ben Berry: `Who to blame for all your problems <http://slides.bengerman.com/pycascades/2019/who-to-blame-for-all-your-problems/index.html>`_  - `video <https://youtu.be/hAnCiTpxXPg?t=27200>`__
 - Hayley Denbraver: `Recursion, Fractals, and the Python Turtle Module <https://drive.google.com/file/d/1PMXdrKonn56Fk7BjhRtafBe5ltMEopCk/view?usp=sharing>`_  - `video <https://youtu.be/hAnCiTpxXPg?t=29312>`__
+- `Day 1 Closing slides <https://docs.google.com/presentation/d/1QHzxvtPuBO-NIU7Su1S35L-Br3pQqpMsif3A-zmcxkE/edit?usp=sharing>`_
 
 **Lightning Talks**
 
@@ -29,6 +31,7 @@ From Saturday, February 23
 From Sunday, February 24
 --------------------------
 
+- Alan Vezina: `Welcome to Day 2 <https://docs.google.com/presentation/d/1XBw1NkeeqAf9_NyxLEUKbQEX2W3Zv5vQm10gUf6uYn4/edit?usp=sharing>`_
 - Nina Zakharenko: `Light Up Your Life - With Python and LEDs! <http://bit.ly/pyc_leds>`_
 - Dustin Ingram: Data Protection for Developers: Past, Present, and Future
 - Omayeli Arenyeka: `Building a Gendered Dictionary <https://docs.google.com/presentation/d/1ZEcBM8IvKf5IWFCB9un42W5-_WJSy0-IKpMTMWhcY-Y/edit?usp=sharing>`_
@@ -39,6 +42,7 @@ From Sunday, February 24
 - Abhishek Kapatkar: Nim for Python Programmers
 - Philip James and Asheesh Laroia: Account Security for the Fashionable App Developer
 - Trey Hunner: Meaningful Mentoring Moments
+- Mariatta: `PyCascades Appreciations <https://docs.google.com/presentation/d/1uROcwz_CZbuWvcPuzCeiFnB4Q6EHfBsDqiA21651yWQ/edit?usp=sharing>`_
 
 
 **Lightning Talks**
@@ -46,7 +50,7 @@ From Sunday, February 24
 - Alex LordThorsen: `Reviewability with GIFs <https://gist.github.com/rawrgulmuffins/e34f180bd3f57a20f643196559b1faf9>`_
 - Jason Wattier: `A Light in the Dark. The Importance and Roles of Mentors <https://docs.google.com/presentation/d/10hlAzyj4qEcfb8uPWacHatB1VgXszRGJoum3HDPU_LM/edit?usp=sharing>`_
 - Nick Ballenger: `Tech Work in Political Orgs <https://docs.google.com/presentation/d/1px1QW6NkLDeiBKYHA5Ccwwtxfd9W9fvAogck431d1p0>`_
-- Mariatta Wijaya: `Mentored Sprint at PyCon US <https://docs.google.com/presentation/d/1yvJKTGbbYCpMQ_CuZ-Vfvc_SiyuYmshLZwk8Q3FJ-xk/edit?usp=sharing>`_
+- Mariatta: `Mentored Sprint at PyCon US <https://docs.google.com/presentation/d/1yvJKTGbbYCpMQ_CuZ-Vfvc_SiyuYmshLZwk8Q3FJ-xk/edit?usp=sharing>`_
 - Casey Faist: `<https://docs.google.com/presentation/d/1gFI8S6ji1yMmmJzesu44R_eJdYhQB4bhvHhHr-sVvBk/edit?usp=sharing>`_
 
 Back to the :ref:`Welcome Wagon <index>`.
