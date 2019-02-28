@@ -8,7 +8,7 @@ From Saturday, February 23
 
 - Thea Flowers: `Welcome to PyCascades <https://docs.google.com/presentation/d/1vrpsXPvOhelbcDuaVdNxCYeqekqrGL0EKZ-JmRT4fC4/edit?usp=sharing>`_
 - Katie McLaughlin: `Turning 'wat' into 'why' <http://glasnt.com/wat>`_  - `video <https://youtu.be/hAnCiTpxXPg?t=3315>`__
-- Al Sweigart: `The Amazing Mutable, Immutable Tuple <http://bit.ly/amazingtuple>`_  - `video <https://youtu.be/hAnCiTpxXPg?t=5233>`__
+- Al Sweigart: `The Amazing Mutable, Immutable Tuple <http://bit.ly/AmazingTuple>`_  - `video <https://youtu.be/hAnCiTpxXPg?t=5233>`__
 - Jigyasa Grover: `Perceiving Python Programming Paradigms <https://docs.google.com/presentation/d/1wiZZSgUoED8S9SZ6djdpYVTntNh7BBIdhDqclKkPxIc/edit?usp=sharing>`_  - `video <https://youtu.be/hAnCiTpxXPg?t=7050>`__
 - Iyanuoluwa Ajao: Type Hints: Adding Types to Legacy Code
 - Josh Weissbock: Distributed Web Scraping in Python - `video <https://youtu.be/hAnCiTpxXPg?t=9282>`__
@@ -37,8 +37,8 @@ From Sunday, February 24
 - Omayeli Arenyeka: `Building a Gendered Dictionary <https://docs.google.com/presentation/d/1ZEcBM8IvKf5IWFCB9un42W5-_WJSy0-IKpMTMWhcY-Y/edit?usp=sharing>`_
 - Andy Fundinger: `A Taxonomy of Decorators: A-E <https://github.com/bloomberg/decorator-taxonomy>`_
 - Chirag Shah: `Understanding Multithreading <http://bit.ly/cpython_pycascades>`_
-- Kyungyun Lee: `So tell me, what is your musical taste? <https://kyungyunlee.github.io/archives/pycascades2019>`_
-- Chris Waigl: `Abstraction for students of all the things <https://github.com/chryss/abstraction-for-students-of-all-the-things>`_
+- Kyungyun Lee: `So tell me, what is your musical taste? <https://kyungyunlee.github.io/assets/post_images/20190224/pycascade_upload.pdf>`_
+- Chris Waigl: `Abstraction for students of all the things <https://github.com/chryss/abstraction-for-students-of-all-the-things/blob/master/cw_presentation.pdf>`_
 - Abhishek Kapatkar: Nim for Python Programmers
 - Philip James and Asheesh Laroia: Account Security for the Fashionable App Developer
 - Trey Hunner: Meaningful Mentoring Moments
