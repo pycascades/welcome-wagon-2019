@@ -41,7 +41,7 @@ From Sunday, February 24
 - Chris Waigl: `Abstraction for students of all the things <https://github.com/chryss/abstraction-for-students-of-all-the-things/blob/master/cw_presentation.pdf>`_
 - Abhishek Kapatkar: Nim for Python Programmers
 - Philip James and Asheesh Laroia: Account Security for the Fashionable App Developer
-- Trey Hunner: Meaningful Mentoring Moments
+- Trey Hunner: `Meaningful Mentoring Moments <https://treyhunner.com/mentoring>`_
 - Mariatta: `PyCascades Appreciations <https://docs.google.com/presentation/d/1uROcwz_CZbuWvcPuzCeiFnB4Q6EHfBsDqiA21651yWQ/edit?usp=sharing>`_
 
 
