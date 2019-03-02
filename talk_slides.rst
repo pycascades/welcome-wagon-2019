@@ -10,7 +10,6 @@ From Saturday, February 23
 - Katie McLaughlin: `Turning 'wat' into 'why' <http://glasnt.com/wat>`_  - `video <https://youtu.be/hAnCiTpxXPg?t=3315>`__
 - Al Sweigart: `The Amazing Mutable, Immutable Tuple <http://bit.ly/AmazingTuple>`_  - `video <https://youtu.be/hAnCiTpxXPg?t=5233>`__
 - Jigyasa Grover: `Perceiving Python Programming Paradigms <https://docs.google.com/presentation/d/1wiZZSgUoED8S9SZ6djdpYVTntNh7BBIdhDqclKkPxIc/edit?usp=sharing>`_  - `video <https://youtu.be/hAnCiTpxXPg?t=7050>`__
-- Iyanuoluwa Ajao: Type Hints: Adding Types to Legacy Code
 - Josh Weissbock: Distributed Web Scraping in Python - `video <https://youtu.be/hAnCiTpxXPg?t=9282>`__
 - Paul Watts: `Given this, assert that: fluent testing using fixtures and properties <https://github.com/paulcwatts/pycascades_slides/blob/master/slides.pdf>`_  - `video <https://youtu.be/hAnCiTpxXPg?t=11275>`__
 - Maria McKinley: `Hunting the bugs <https://codedragon.github.io/bughunting/>`_  - `video <https://youtu.be/hAnCiTpxXPg?t=23968>`__
