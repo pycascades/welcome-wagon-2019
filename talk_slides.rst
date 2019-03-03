@@ -31,26 +31,26 @@ From Saturday, February 23
 From Sunday, February 24
 --------------------------
 
-- Alan Vezina: `Welcome to Day 2 <https://docs.google.com/presentation/d/1XBw1NkeeqAf9_NyxLEUKbQEX2W3Zv5vQm10gUf6uYn4/edit?usp=sharing>`_
-- Nina Zakharenko: `Light Up Your Life - With Python and LEDs! <http://bit.ly/pyc_leds>`_
-- Dustin Ingram: Data Protection for Developers: Past, Present, and Future
-- Omayeli Arenyeka: `Building a Gendered Dictionary <https://docs.google.com/presentation/d/1ZEcBM8IvKf5IWFCB9un42W5-_WJSy0-IKpMTMWhcY-Y/edit?usp=sharing>`_
-- Andy Fundinger: `A Taxonomy of Decorators: A-E <https://github.com/bloomberg/decorator-taxonomy>`_
-- Chirag Shah: `Understanding Multithreading <http://bit.ly/cpython_pycascades>`_
-- Kyungyun Lee: `So tell me, what is your musical taste? <https://kyungyunlee.github.io/assets/post_images/20190224/pycascade_upload.pdf>`_
-- Chris Waigl: `Abstraction for students of all the things <https://github.com/chryss/abstraction-for-students-of-all-the-things/blob/master/cw_presentation.pdf>`_
-- Abhishek Kapatkar: `Nim for Python Programmers <https://slides.com/akapatkar/nim-for-python-programmers>`_
-- Philip James and Asheesh Laroia: Account Security for the Fashionable App Developer
-- Trey Hunner: `Meaningful Mentoring Moments <https://treyhunner.com/mentoring>`_
-- Mariatta: `PyCascades Appreciations <https://docs.google.com/presentation/d/1uROcwz_CZbuWvcPuzCeiFnB4Q6EHfBsDqiA21651yWQ/edit?usp=sharing>`_
+- Alan Vezina: `Welcome to Day 2 <https://docs.google.com/presentation/d/1XBw1NkeeqAf9_NyxLEUKbQEX2W3Zv5vQm10gUf6uYn4/edit?usp=sharing>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=425>`__
+- Nina Zakharenko: `Light Up Your Life - With Python and LEDs! <http://bit.ly/pyc_leds>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=820>`__
+- Dustin Ingram: Data Protection for Developers: Past, Present, and Future - `video <https://youtu.be/MTdYyCKcI8Q?t=2810>`__
+- Omayeli Arenyeka: `Building a Gendered Dictionary <https://docs.google.com/presentation/d/1ZEcBM8IvKf5IWFCB9un42W5-_WJSy0-IKpMTMWhcY-Y/edit?usp=sharing>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=4880>`__
+- Andy Fundinger: `A Taxonomy of Decorators: A-E <https://github.com/bloomberg/decorator-taxonomy>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=7310>`__
+- Chirag Shah: `Understanding Multithreading <http://bit.ly/cpython_pycascades>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=9258>`__
+- Kyungyun Lee: `So tell me, what is your musical taste? <https://kyungyunlee.github.io/assets/post_images/20190224/pycascade_upload.pdf>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=17575>`__
+- Chris Waigl: `Abstraction for students of all the things <https://github.com/chryss/abstraction-for-students-of-all-the-things/blob/master/cw_presentation.pdf>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=19905>`__
+- Abhishek Kapatkar: `Nim for Python Programmers <https://slides.com/akapatkar/nim-for-python-programmers>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=22025>`__
+- Philip James and Asheesh Laroia: Account Security for the Fashionable App Developer - `video <https://youtu.be/MTdYyCKcI8Q?t=25335>`__
+- Trey Hunner: `Meaningful Mentoring Moments <https://treyhunner.com/mentoring>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=27390>`__
+- Mariatta: `PyCascades Appreciations <https://docs.google.com/presentation/d/1uROcwz_CZbuWvcPuzCeiFnB4Q6EHfBsDqiA21651yWQ/edit?usp=sharing>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=28850>`__
 
 
 **Lightning Talks**
 
-- Alex LordThorsen: `Reviewability with GIFs <https://gist.github.com/rawrgulmuffins/e34f180bd3f57a20f643196559b1faf9>`_
-- Jason Wattier: `A Light in the Dark. The Importance and Roles of Mentors <https://docs.google.com/presentation/d/10hlAzyj4qEcfb8uPWacHatB1VgXszRGJoum3HDPU_LM/edit?usp=sharing>`_
-- Nick Ballenger: `Tech Work in Political Orgs <https://docs.google.com/presentation/d/1px1QW6NkLDeiBKYHA5Ccwwtxfd9W9fvAogck431d1p0>`_
-- Mariatta: `Mentored Sprint at PyCon US <https://docs.google.com/presentation/d/1yvJKTGbbYCpMQ_CuZ-Vfvc_SiyuYmshLZwk8Q3FJ-xk/edit?usp=sharing>`_
-- Casey Faist: `<https://docs.google.com/presentation/d/1gFI8S6ji1yMmmJzesu44R_eJdYhQB4bhvHhHr-sVvBk/edit?usp=sharing>`_
+- Alex LordThorsen: `Reviewability with GIFs <https://gist.github.com/rawrgulmuffins/e34f180bd3f57a20f643196559b1faf9>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=15525>`__
+- Jason Wattier: `A Light in the Dark. The Importance and Roles of Mentors <https://docs.google.com/presentation/d/10hlAzyj4qEcfb8uPWacHatB1VgXszRGJoum3HDPU_LM/edit?usp=sharing>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=15740>`__
+- Nick Ballenger: `Tech Work in Political Orgs <https://docs.google.com/presentation/d/1px1QW6NkLDeiBKYHA5Ccwwtxfd9W9fvAogck431d1p0>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=16185>`__
+- Mariatta: `Mentored Sprint at PyCon US <https://docs.google.com/presentation/d/1yvJKTGbbYCpMQ_CuZ-Vfvc_SiyuYmshLZwk8Q3FJ-xk/edit?usp=sharing>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=16592>`__
+- Casey Faist: `<https://docs.google.com/presentation/d/1gFI8S6ji1yMmmJzesu44R_eJdYhQB4bhvHhHr-sVvBk/edit?usp=sharing>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=16910>`__
 
 Back to the :ref:`Welcome Wagon <index>`.
