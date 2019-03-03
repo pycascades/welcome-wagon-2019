@@ -51,6 +51,6 @@ From Sunday, February 24
 - Jason Wattier: `A Light in the Dark. The Importance and Roles of Mentors <https://docs.google.com/presentation/d/10hlAzyj4qEcfb8uPWacHatB1VgXszRGJoum3HDPU_LM/edit?usp=sharing>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=15740>`__
 - Nick Ballenger: `Tech Work in Political Orgs <https://docs.google.com/presentation/d/1px1QW6NkLDeiBKYHA5Ccwwtxfd9W9fvAogck431d1p0>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=16185>`__
 - Mariatta: `Mentored Sprint at PyCon US <https://docs.google.com/presentation/d/1yvJKTGbbYCpMQ_CuZ-Vfvc_SiyuYmshLZwk8Q3FJ-xk/edit?usp=sharing>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=16592>`__
-- Casey Faist: `<https://docs.google.com/presentation/d/1gFI8S6ji1yMmmJzesu44R_eJdYhQB4bhvHhHr-sVvBk/edit?usp=sharing>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=16910>`__
+- Casey Faist: `Data Classes. Some Quick Context <https://docs.google.com/presentation/d/1gFI8S6ji1yMmmJzesu44R_eJdYhQB4bhvHhHr-sVvBk/edit?usp=sharing>`_ - `video <https://youtu.be/MTdYyCKcI8Q?t=16910>`__
 
 Back to the :ref:`Welcome Wagon <index>`.
